@@ -3,7 +3,7 @@
 
 ![profilepic](C:\Users\xcrui\Desktop\MK\2학년\오픈소스소프트웨어\ossprofilepic.jpg)
 
-
+test
 ### 이름: 정만교
 
 ### 학력: 광운대학교 정보융합학부 데이터사이언스 학사
