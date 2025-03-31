@@ -1,6 +1,6 @@
 # 정만교 resume
 
-![profilepic](C:\Users\xcrui\Desktop\MK\2학년\오픈소스소프트웨어\ossprofilepic.jpg)
+![profilepic](ossprofilepic.jpg)
 
 
 - 이름: **정만교**
